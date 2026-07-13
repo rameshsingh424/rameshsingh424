@@ -60,5 +60,5 @@ Key engineering areas:
 
 ## Connect
 
-- [LinkedIn](https://www.linkedin.com/in/rameshsingh1101/)
+- [LinkedIn](https://www.linkedin.com/in/ramesh-singh-tech-lead/)
 - Email: singhramesh424@gmail.com
